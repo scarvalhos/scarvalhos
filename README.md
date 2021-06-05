@@ -1,16 +1,15 @@
-### Hi there 👋
+# Fala Galera 👋
 
-<!--
-**scarvalhos/scarvalhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Samara Carvalho por aqui! Em 2020 comecei a estudar
+programação na área de Desenvolvimento FullStack (Front-end, Back-end & Mobile).
+E desde então tenho estudado a Stack Javascript
+(Node, React, React Native & Typescript).
 
-Here are some ideas to get you started:
+Apaixonada em aprender novas habilidades e enfrentar desafios
+que podem me impulsionar a outros níveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Espírito Santo, Brazil.
+- 📧 samcarvalhos@hotmail.com
+- 👩🏻‍💻 Atualmente como Dev Freelancer.
+
+Instagram: https://instagram.com/scarvalhos.dev
