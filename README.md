@@ -1,8 +1,11 @@
 # Fala Galera 👋
 
-Samara Carvalho por aqui! Em 2020 comecei a estudar
+Samara Carvalho por aqui!
+
+Em 2020 comecei a estudar
 programação na área de Desenvolvimento FullStack
 (Front-end, Back-end & Mobile).
+
 Desde então tenho estudado a Stack Javascript
 (Node, React, React Native & Typescript).
 
