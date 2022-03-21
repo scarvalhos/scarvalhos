@@ -25,7 +25,7 @@ que podem me impulsionar a outros níveis.
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-[![scarvalhos](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&hide=html&layout=compact&theme=dracula)](https://github.com/scarvalhos/)
+[![scarvalhos](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&hide=html&layout=compact&theme=dark)](https://github.com/scarvalhos/)
 
 Entre em contato
 
