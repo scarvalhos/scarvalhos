@@ -33,18 +33,18 @@ Entre em contato
   <a href="https://instagram.com/devcarvalhos/">
     <img
       align="rigth"
-      src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=ffffff"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=ffffff"
     />
   </a>
   <a href="https://www.linkedin.com/in/samcarvalhos/">
     <img
          align="rigth"
-         src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=ffffff"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=ffffff"
   </a>
   <a href="mailto:samcarvalhods@gmail.com">
     <img
       align="rigth"
-      src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=youtube&logoColor=ffffff"
+      src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=youtube&logoColor=ffffff"
     />
   </a>
 </p>
