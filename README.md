@@ -16,4 +16,7 @@ que podem me impulsionar a outros níveis.
 - 📧 samcarvalhos@hotmail.com
 - 👩🏻‍💻 Atualmente como Dev Freelancer.
 
+
 [![scaravalhos](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&hide=html&layout=compact&theme=dracula)](https://github.com/scarvalhos/)
+
+[![card](https://github-readme-stats.vercel.app/api?username=scaravalhos&theme=dracula&show_icons=true)](https://github.com/scaravalhos/)
