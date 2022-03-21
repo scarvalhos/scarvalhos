@@ -17,6 +17,6 @@ que podem me impulsionar a outros níveis.
 - 👩🏻‍💻 Atualmente como Dev Freelancer.
 
 
-[![scaravalhos](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&hide=html&layout=compact&theme=dracula)](https://github.com/scarvalhos/)
+[![scarvalhos](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&hide=html&layout=compact&theme=dracula)](https://github.com/scarvalhos/)
 
-[![card](https://github-readme-stats.vercel.app/api?username=scaravalhos&theme=dracula&show_icons=true)](https://github.com/scaravalhos/)
+[![card](https://github-readme-stats.vercel.app/api?username=scarvalhos&theme=dracula&show_icons=true)](https://github.com/scarvalhos/)
