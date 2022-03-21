@@ -27,26 +27,24 @@ que podem me impulsionar a outros níveis.
 ## ⭐ Informações sobre minha conta GitHub
 [![scarvalhos](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&hide=html&layout=compact&theme=dracula)](https://github.com/scarvalhos/)
 
-[![card](https://github-readme-stats.vercel.app/api?username=scarvalhos&theme=dracula&show_icons=true)](https://github.com/scarvalhos/)
-
 Entre em contato
 
-<p align="center">
+<p align="rigth">
   <a href="https://instagram.com/devcarvalhos/">
     <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+      align="rigth"
+      src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=ffffff"
     />
   </a>
   <a href="https://www.linkedin.com/in/samcarvalhos/">
     <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+         align="rigth"
+         src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=ffffff"
   </a>
   <a href="mailto:samcarvalhods@gmail.com">
     <img
-      align="center"
-      src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
+      align="rigth"
+      src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=youtube&logoColor=ffffff"
     />
   </a>
 </p>
