@@ -30,13 +30,23 @@ que podem me impulsionar a outros níveis.
 [![card](https://github-readme-stats.vercel.app/api?username=scarvalhos&theme=dracula&show_icons=true)](https://github.com/scarvalhos/)
 
 Entre em contato
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=samcarvalhods@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samcarvalhos" /></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/devcarvalhos/"/></a>
-</p>  
+<p align="center">
+  <a href="https://instagram.com/devcarvalhos/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/samcarvalhos/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+  <a href="mailto:samcarvalhods@gmail.com">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
+    />
+  </a>
+</p>
