@@ -1,6 +1,6 @@
 
 
-## 💜 Hello, i am <strong>Samara Carvalho!</strong>
+## 💜 Hello, i am <strong>Samara!</strong>
 
 > Em 2020 comecei a estudar programação na área de Desenvolvimento FullStack (Front-end, Back-end & Mobile).
 
