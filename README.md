@@ -1,14 +1,14 @@
-# Samara Carvalho 💜
+# Samara Carvalho
 
 <div>
   <a href="https://instagram.com/devcarvalhos/">
-    <img src="https://img.shields.io/badge/@devcarvalhos-141321?style=flat&logo=instagram&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/@devcarvalhos-4C11F5?style=flat&logo=instagram&logoColor=ffffff"/>
   </a>
   <a href="https://www.linkedin.com/in/samcarvalhos/">
-    <img src="https://img.shields.io/badge/Samara Carvalho-141321?style=flat&logo=linkedin&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Samara Carvalho-4C11F5?style=flat&logo=linkedin&logoColor=ffffff"/>
   </a>
   <a href="mailto:samcarvalhods@gmail.com">
-    <img src="https://img.shields.io/badge/samcarvalhos@hotmail.com-141321?style=flat&logo=gmail&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/samcarvalhos@hotmail.com-4C11F5?style=flat&logo=gmail&logoColor=ffffff"/>
   </a>
 </div>
 
@@ -23,8 +23,6 @@ Passionate about learning new skills and taking on challenges that can propel me
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,materialui,docker,mongodb,prisma,figma,git,redux,sass,graphql,firebase&perline=9)](https://skillicons.dev)
 
 <br />
-
-### ⭐ My Github's Informations
 
 ![GitHub languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=7&theme=radical)
 
