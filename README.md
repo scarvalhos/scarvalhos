@@ -14,7 +14,7 @@ I'm Samara, a Front-end Developer passionate about learning new skills and takin
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarvalhos&show_icons=true&theme=radical)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarvalhos&theme=radical)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarvalhos&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=scarvalhos&theme=radical)
 
 </div>
 
