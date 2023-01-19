@@ -1,6 +1,6 @@
 
 
-## 💜 Hello, there! <strong>Samara Here!</strong>
+## 💜 Hello, there!
 
 Front-end Developer passionate about learning new skills and taking on challenges that can propel me to new levels.
 
