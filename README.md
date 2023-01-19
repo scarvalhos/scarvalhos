@@ -26,14 +26,3 @@ Passionate about learning new skills and taking on challenges that can propel me
 
 ![GitHub languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=7&theme=radical)
 
-<div style="display: flex;">
-
-<div style="margin-right: 10px">
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=scarvalhos&show_icons=true&theme=radical)
-
-</div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarvalhos&theme=radical)
-
-</div>
