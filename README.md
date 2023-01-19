@@ -1,6 +1,6 @@
-# 👋 Hello, there!
+# Samara Carvalho
 
-I'm Samara, a Front-end Developer passionate about learning new skills and taking on challenges that can propel me to new levels.
+Front-end Developer passionate about learning new skills and taking on challenges that can propel me to new levels.
 
 ### 🚀 My Skills
 
