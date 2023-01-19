@@ -19,7 +19,6 @@ I'm Samara, a Front-end Developer passionate about learning new skills and takin
 
 <br>
  <div align="center">
-
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=7&theme=gotham"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarvalhos&show_icons=true&theme=gotham)
@@ -29,7 +28,6 @@ I'm Samara, a Front-end Developer passionate about learning new skills and takin
  <br>
 
   ![Snake animation](https://github.com/scarvalhos/scarvalhos/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 <br>
 
