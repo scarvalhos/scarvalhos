@@ -15,10 +15,8 @@ I'm Samara, a Front-end Developer passionate about learning new skills and takin
 
 
 ## ⭐ My Github's Informations
-[![scarvalhos](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&hide=html&layout=compact&theme=dark)](https://github.com/scarvalhos/)
-
 <br>
- <div align="center">
+ <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=7&theme=gotham"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarvalhos&show_icons=true&theme=gotham)
