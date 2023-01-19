@@ -10,9 +10,9 @@ I'm Samara, a Front-end Developer passionate about learning new skills and takin
 
 <div>
 
-![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=7&theme=radical)
+![GitHub languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=7&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarvalhos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=scarvalhos&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarvalhos&theme=radical)
 
