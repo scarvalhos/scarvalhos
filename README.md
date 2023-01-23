@@ -14,7 +14,7 @@
 
 <br />
 
-Frontend developer enthusiast of the JS Stack.
+Frontend developer based on the JS/TS Stack.
 
 Passionate about learning new skills and taking on challenges that can propel me to new levels.
 
