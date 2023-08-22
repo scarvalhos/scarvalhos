@@ -14,8 +14,6 @@
 
 <br />
 
-Frontend developer based on the JavaScript Stack.
-
 Passionate about learning new skills and taking on challenges that can propel me to new levels.
 
 <br />
