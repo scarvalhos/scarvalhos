@@ -1,8 +1,8 @@
 # Samara Carvalho
 
 <div>
-  <a href="https://instagram.com/devcarvalhos/">
-    <img src="https://img.shields.io/badge/@devcarvalhos-4C11F5?style=flat&logo=instagram&logoColor=ffffff"/>
+  <a href="https://instagram.com/samcarvalhos/">
+    <img src="https://img.shields.io/badge/@samcarvalhos-4C11F5?style=flat&logo=instagram&logoColor=ffffff"/>
   </a>
   <a href="https://www.linkedin.com/in/samcarvalhos/">
     <img src="https://img.shields.io/badge/Samara Carvalho-4C11F5?style=flat&logo=linkedin&logoColor=ffffff"/>
