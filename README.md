@@ -22,5 +22,5 @@ Passionate about learning new skills and taking on challenges that can propel me
 
 <br />
 
-![GitHub languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=7&theme=radical)
+![GitHub languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scarvalhos&layout=compact&langs_count=10&theme=radical)
 
